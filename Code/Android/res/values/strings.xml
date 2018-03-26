@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FieldWiz Monitoring</string>
+    <string name="POST_FILE">http://160.98.127.188:3000/</string>
+    <string name="POST_INFO_SESSION">http://160.98.127.188:3000/Dates</string>
+    <string name="POST_USER">http://160.98.127.188:3000/Users</string>
+    <string name="POST_SESSION">http://160.98.127.188:3000/Sessions</string>
+    <string name="POST_STATS">http://160.98.127.188:3000/GetStats</string>
+    <string name="POST_NEW_ACCOUNT">http://160.98.127.188:3000/NewAccount</string>
+    <string name="POST_AVATAR">http://160.98.127.188:3000/Avatar</string>
+    <string name="GET_INFO_USER">http://160.98.127.188:3000/Info_user</string>
+    <string name="GET_AVATAR_USER">http://160.98.127.188:3000/Avatar_user</string>
+
+    <!--<string name="app_name">FieldWiz Monitoring</string>
+    <string name="POST_FILE">http://192.168.1.133:3000/</string>
+    <string name="POST_INFO_SESSION">http://192.168.1.133:3000/Dates</string>
+    <string name="POST_USER">http://192.168.1.133:3000/Users</string>
+    <string name="POST_SESSION">http://192.168.1.133:3000/Sessions</string>
+    <string name="POST_STATS">http://192.168.1.133:3000/GetStats</string>
+    <string name="POST_NEW_ACCOUNT">http://192.168.1.133:3000/NewAccount</string>
+    <string name="POST_AVATAR">http://192.168.1.133:3000/Avatar</string>
+    <string name="GET_INFO_USER">http://192.168.1.133:3000/Info_user</string>
+    <string name="GET_AVATAR_USER">http://192.168.1.133:3000/Avatar_user</string>-->
+</resources>
