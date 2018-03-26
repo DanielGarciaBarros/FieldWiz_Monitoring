@@ -1,5 +1,5 @@
 # FieldWiz_ProjetSemestre
-Projet de semestre "FieldWiz"
+Projet de semestre "FieldWiz_Monitoring"
 
 INTRO:
 
@@ -7,7 +7,7 @@ Il s'agit d'un projet de semetre réalisé lors de ma formation à l'HEIA-FR. Ce
 Front-end: Android
 Back-end: Nodejs, Neo4j
 
-Le but du projet est de permetre aux utilisateurs de visualiser leurs performances sportives en connectant le FieldWiz (http://www.fieldwiz.com/) au smartphone grâce à la technologie USB en mode OTG.
+Le but du projet est de permettre aux utilisateurs de visualiser leurs performances sportives en connectant le FieldWiz (http://www.fieldwiz.com/) au smartphone grâce à la technologie USB en mode OTG.
 
 CONTENU:
 
@@ -21,3 +21,4 @@ CONTENU:
   - Raport final
   - Planning
   - PV
+  - Screenshots
